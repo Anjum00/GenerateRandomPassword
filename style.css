@@ -111,7 +111,7 @@ body {
         font-size: 2rem;
     }
     .display {
-        flex-direction: column;
+        /* flex-direction: column; */
         padding: 15px;
     }
     .display input {
